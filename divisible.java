@@ -9,11 +9,11 @@ public class divisible
 		{
 			if(num%5==0)
 			{
-				Systtem.out.println("The number is divisible by '3' and '5' respectively");
+				System.out.println("The number is divisible by '3' and '5' respectively");
 			}
 			else
 			{
-				Systtem.out.println("The number is NOT divisible by '3' and '5' respectively");
+				System.out.println("The number is NOT divisible by '3' and '5' respectively");
 			}
 		}
 	}
