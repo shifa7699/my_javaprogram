@@ -8,6 +8,6 @@ public class swap
 		c=a;
 		a=b;
 		b=a;
-		Systtem.out.println("After Swapping we get: "+a+b);
+		System.out.println("After Swapping we get: "+a+b);
 		}
 }
