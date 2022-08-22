@@ -11,7 +11,7 @@ public class sum_n_numbers
         int n=sc.nextInt();
         for(i=1;i<=n;i++)
         {
-        	s=s+n;
+        	s=s+i;
         }
         System.out.println("Sum is: "+s);
 	}
