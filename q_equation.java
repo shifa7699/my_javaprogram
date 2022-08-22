@@ -17,7 +17,7 @@ public class q_equation
 		}
 		else
 		{
-			System.out.println("roots are different");
+			System.out.println("roots are imaginary");
 		}
 	}
 }
