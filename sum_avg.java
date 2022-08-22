@@ -14,7 +14,7 @@ public class sum_avg
 	        int n=sc.nextInt();
 	        s=s+n;
 		}
-		avg=sum/n;
+		avg=sum/5;
 		System.out.println("The sum of the numbers is: "+s);
 		System.out.println("The average is: "+avg);
 	}
