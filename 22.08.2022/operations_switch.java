@@ -40,3 +40,6 @@ public class operations_switch
 	}
 
 }
+/*Write a java program to input any arithmetic operator and perform all the 
+*arithmetic operations based on the operator given in the input
+*Note: use switch for this program*/
