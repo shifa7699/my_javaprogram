@@ -8,3 +8,4 @@ public class even_odd
 		if(num%2==0)?System.out.println("Even number"):System.out.println("Odd number");
 	}
 }
+//Write a Java Program to find whether a number is even or odd using conditional operator.
