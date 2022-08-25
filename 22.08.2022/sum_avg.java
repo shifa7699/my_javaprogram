@@ -18,5 +18,5 @@ public class sum_avg
 		System.out.println("The sum of the numbers is: "+s);
 		System.out.println("The average is: "+avg);
 	}
-
 }
+//Write a program in Java to input 5 numbers from keyboard and find their sum and average.
