@@ -17,5 +17,5 @@ public class divisible
 			}
 		}
 	}
-
 }
+//Write a Java Program to check whether a number is divisibly by 5 as well as 3.
