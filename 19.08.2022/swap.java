@@ -9,5 +9,6 @@ public class swap
 		a=b;
 		b=a;
 		System.out.println("After Swapping we get: "+a+b);
-		}
+	}
 }
+//Write a Java program to swap two variables.
