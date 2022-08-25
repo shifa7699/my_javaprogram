@@ -16,3 +16,4 @@ public class sum_n_numbers
         System.out.println("Sum is: "+s);
 	}
 }
+//Write a program in Java to display n terms of natural numbers and their sum.
