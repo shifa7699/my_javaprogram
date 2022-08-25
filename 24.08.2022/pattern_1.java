@@ -19,3 +19,10 @@ public class pattern_1
         }
     }
 }
+/*Write a program in java to make such a pattern
+*like right angle triangle with number increased by 1.
+*The pattern like:
+*1
+*2 3
+*4 5 6
+*7 8 9 10*/
