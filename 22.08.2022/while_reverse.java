@@ -17,5 +17,5 @@ public class while_reverse
         }
         System.out.println("Reverse of the number is:- "+r);
 	}
-
 }
+//Write a java program to input a number and reverse it.
