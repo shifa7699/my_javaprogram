@@ -21,3 +21,10 @@ public class q_equation
 		}
 	}
 }
+/*Write a Java program to solve quadratic equations and check whether the roots are 
+positive,equal or negative (use if, else if and else).
+
+Test Data
+Input a: 1
+Input b: 5
+Input c: 1*/
