@@ -19,3 +19,11 @@ public class num_pattern
 	       }
 	    }
 	}
+/*Write a program in java to make such a pattern
+*like right angle triangle with number increased
+*by 1.The pattern like:
+*1
+*12
+*123 
+*1234
+*12345*/
