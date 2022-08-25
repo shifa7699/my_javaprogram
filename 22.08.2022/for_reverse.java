@@ -7,8 +7,8 @@ public class for_reverse
 	{
 		int i,n,d,r=0;
 		Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the three digit number ");
-        int n=sc.nextInt();
+        	System.out.println("Enter the three digit number ");
+        	int n=sc.nextInt();
 		for(i=1;i<=3;i++)
 		{
 			d=n%10;
@@ -17,3 +17,5 @@ public class for_reverse
 		}
 		printf("Reverse of number:- %d",r);
 	}
+}
+//Write a java program to input a number and reverse it.
