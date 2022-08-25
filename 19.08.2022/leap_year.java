@@ -14,5 +14,5 @@ public class leap_year
 			System.out.println(year+"is not a leap year");
 		}
 	}
-
 }
+//Write a Java program that takes a year from user and print whether that year is a leap year or not.
