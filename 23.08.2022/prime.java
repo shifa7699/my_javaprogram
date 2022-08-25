@@ -22,3 +22,4 @@ public class prime
         }
     }
 }
+// Write a Java Program to print prime numbers from 15 to 30.
