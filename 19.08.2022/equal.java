@@ -13,7 +13,7 @@ public class equal
 		{
 			System.out.println("All the integers are not equal");
 		}
-		
 	}
-
 }
+/*Write a Java program that takes four integers and prints equal if all four are equal
+and not equal otherwise*/
