@@ -26,3 +26,4 @@ public class armstrong
 	        }
 	    }
 	}
+//Write a program in java and input a number to check whethe it is an Armstrong number or not.
