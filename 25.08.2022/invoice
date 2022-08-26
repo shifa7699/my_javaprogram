@@ -1,0 +1,31 @@
+package program.com;
+
+import java.util.*;
+class Invoice 
+	{
+	 	int quantity;
+	    String part_num,part_desc;
+	    double price;
+	    Invoice(String p_num,String p_desc,int quan_tity,double price_per)
+	    {
+	        part_num=p_num;
+	        part_desc=p_desc;
+	        quantity=quan_tity;
+	        price=price_per;
+	        if(quantity<0) 
+	        {
+	            System.out.println(quantity=0);
+	        }
+	        else if(price<0) 
+	        {
+	            System.out.println(price=0.0);
+	        }
+	    }
+	    double getInvoice()
+	    {
+	        return price*quantity;
+	            
+	    }
+	}
+
+}
