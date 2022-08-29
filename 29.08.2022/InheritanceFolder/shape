@@ -1,0 +1,13 @@
+package program.com;
+
+import java.util.Scanner;
+class shape
+{
+    void display()
+    {
+        Scanner sc=new Scanner(System.in);
+        System.out.println("enter the side:- ");
+        int side=sc.nextInt();
+        System.out.println("Side is:"+side);
+    }
+}
