@@ -1,0 +1,11 @@
+package program.com
+
+class square extends shape
+{
+    void area_square()
+    {
+        float area;
+        area=side*side;
+        System.out.println("Area of the square is "+area);
+    }
+}
