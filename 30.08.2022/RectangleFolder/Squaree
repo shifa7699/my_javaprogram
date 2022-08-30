@@ -1,8 +1,8 @@
 package program.com;
 
-class Square extends Rectangle        
+class Squaree extends Rectangle        
 {  
-    public Square(int s)       
+    public Squaree(int s)       
     {
         super(s, s);
     }     
