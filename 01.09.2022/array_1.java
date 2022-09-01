@@ -13,6 +13,7 @@ public class array_1
 	      for(i=0;i<arr.length;i++)
 	      {
 	    	  System.out.println(arr[i]);
-		  }
+		}
 	 }
 }
+//WAP to input an array having 5 strings and display them.
