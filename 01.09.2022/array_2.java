@@ -9,13 +9,14 @@ public class array_2
 	        String arr[][]=new String[3][3];
 	        Scanner sc=new Scanner(System.in);
 	        System.out.println("Enter the arrays");
-			arr=sc.nextLine();
-			for(i=0;i<3;i++)
-			{
-		    	for(j=0;j<3;j++)
-		    	{
-		    		System.out.println(arr[i][j]);
-		    	}
-			}
+		arr=sc.nextLine();
+		for(i=0;i<3;i++)
+		{
+		    for(j=0;j<3;j++)
+		    {
+		    	System.out.println(arr[i][j]);
+		    }
+		}
 	    }
 }
+//WAP to input an array having 3 rows and 3 columns of type String.
