@@ -6,9 +6,9 @@ public class array_1
 	public static void main(String args[])
 	{
 	      int i;
-	      String arr[];
+	      String arr[]=new String arr[5];
 	      Scanner sc=new Scanner(System.in);
-	      System.out.println("enter the array");
+	      System.out.println("Enter the array");
 	      arr=sc.nextLine();
 	      for(i=0;i<arr.length;i++)
 	      {
