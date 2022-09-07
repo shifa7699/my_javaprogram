@@ -2,15 +2,15 @@ package com.java.unit.Junit1;
 
 public class maximum 
 {
-	  int max=0;
-	  int Max(int arr[])
-		for(int i=0;i<arr.length;i++) 
-    {
-			  if(arr[i]>Max)
-        {
-				  Max=arr[i];
-			  }
+	int max=0;
+	int Max(int arr[])
+	for(int i=0;i<arr.length;i++) 
+   	 {
+		if(arr[i]>Max)
+        	{
+			Max=arr[i];
 		}
-		return Max;
 	}
+	return Max;
 }
+
